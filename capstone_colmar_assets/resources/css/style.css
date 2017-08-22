@@ -1,0 +1,270 @@
+/*--------------------------------------------------*/
+/*UNIVERSAL TAGS*/
+html{
+ font-size:16px;
+font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+  padding-left:24px;
+}
+.logo img{
+  width:48px;
+}
+
+#upper-bigbox .head{
+  display:inline-flex;
+  align-items:center;
+  height:64px;
+  width:100%;
+  font-family: 'Open Sans', sans-serif;
+  font-size:24px;
+}
+
+.logowords{
+  display:inline-flex;
+
+}
+.title2 h3{
+  color: #A09898;
+}
+.title1 h3{
+  color: #625D5D;
+}
+li{
+  padding:8px;
+}
+nav ul{
+  list-style-type: none;
+  display:inline-flex;
+}
+header nav {
+  text-align: right;
+  flex-grow: 1;
+}
+
+nav li{
+  justify-content: space-around;
+  align-items: center;
+}
+
+/*--------------------------------------------------*/
+/*FIRST BOX*/
+
+.learn .image{
+ margin-left:24px;
+ margin-top:32px;
+ margin-bottom:32px;
+}
+h1{
+  font-size:64px;
+  padding-left:16px;
+  margin:0;
+}
+.learn{
+  width:100%;
+  background-color:#B1A9A9;
+  display: inline-flex;
+  align-items: center;
+}
+
+.text{
+  padding-left:24px;
+  width:496px;
+}
+.start {
+  font-size:24px;
+  color:white;
+  background-color:#373737;
+  text-align: center;
+  padding-top:8px;
+  padding-bottom:8px;
+  margin-left:16px;
+}
+h1{
+  color:#373737;
+}
+.text .quote{
+  font-size: 24px;
+  text-align:left;
+  padding-left:16px;
+}
+
+/*--------------------------------------------------*/
+/*SECOND BOX*/
+.box2{
+  width:100%;
+  display: inline-flex;
+}
+
+.dudewords p{
+  font-size: 24px;
+  padding-left:16px;
+  width:1000px;
+  padding-bottom: 32px;
+}
+.dudebox{
+  width: 240px;
+  height:auto;
+}
+
+.secondpic{
+  margin-left:24px;
+  margin-right:24px;
+  margin-top:32px;
+  margin-bottom:32px;
+}
+.orientation{
+  display:inline-flex;
+  align-items:center;
+}
+.orientation img{
+  width:35%;
+  margin:16px;
+}
+
+.campus{
+  align-items:center;
+  display:inline-flex;
+}
+.campus img{
+  width:35%;
+  margin:16px;
+  height:auto;
+}
+.guest{
+  word-wrap:normal;
+  align-items:center;
+  display:inline-flex;
+  background-color:#B1A9A9;
+}
+.guest img{
+  width:23%;
+  margin:16px;
+}
+.words nav{
+  font-size: 24px;
+}
+.info p{
+  font-size: 24px;
+}
+.info{
+  display:block;
+  width:40%;
+  padding-top:16px;
+  margin-right:16px;
+}
+/*--------------------------------------------------*/
+/*THIRD BOX*/
+
+.pictures {
+  padding-bottom:16px;
+  font-weight: bold;
+  background-color:#B1A9A9;
+}
+
+.pictures section{
+  text-align:center;
+  font-size:72px;
+  margin-top:16px;
+  color:#373737;
+}
+
+.line1 {
+  display:flex;
+  width:200px;
+}
+.line2 {
+  display: inline-flex;
+  width:200px;
+}
+.images{
+  align-content:center;
+  margin:16px;
+  background-color:white;
+}
+
+.words3 hgroup{
+  font-size:32px;
+  padding-top:16px;
+  padding-bottom:16px;
+}
+.words3{
+  margin-left:32px;
+  padding:8px;
+}
+.pictures p{
+  font-size:24px;
+  font-weight:lighter;
+}
+.images span{
+  font-size:24px;
+  font-weight:lighter;
+
+}--------------------------------------------*/
+/*FOURTH BOX*/
+.box4{
+  display:inline-block;
+  text-align: center;
+}
+
+.imagebox3words{
+  font-size:24px;
+  width:900px;
+  text-align:left;
+  padding-bottom:32px;
+  padding-top:24px;
+  padding-left:24px;
+}
+.box4 .lastbox{
+width:100%;
+}
+.text{
+  width: 40%;
+}
+.imagebox5{
+  align-items:center;
+  display:inline-flex;
+  background-color:#B1A9A9;
+}
+.imagebox5 img{
+  display:inline-flex;
+  width:35%;
+  height:auto;
+  margin:16px;
+}
+.lastbox{
+  display:inline-flex;
+}
+.imagebox4{
+  align-items:center;
+  display:inline-flex;
+}
+.imagebox4 img{
+  display:inline-flex;
+  width:35%;
+  height:auto;
+  margin:16px;
+}
+.box4 section{
+  text-align:center;
+  font-size:50px;
+  font-weight:bold;
+  padding-top:32px;
+  padding-bottom: 32px;
+  margin:0;
+  font-family: 'Open Sans', sans-serif;
+  color:#373737;
+}
+/*--------------------------------------------------*/
+/*FOOTER*/
+footer{
+  display:flex;
+  font-size:24px;
+  align-items:center;
+  padding-left:24px;
+}
+.foot{
+  text-align: right;
+  flex-grow: 1;
+}
